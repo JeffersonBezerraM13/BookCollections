@@ -67,7 +67,7 @@ public class LibraryProgram {
             int result = JOptionPane.showConfirmDialog(null,
                     comboBoxMain,
                     "Gerenciamento dos acervos", JOptionPane.OK_CANCEL_OPTION, JOptionPane.QUESTION_MESSAGE,
-                    new ImageIcon("icons\\arquivesKirby180.png"));
+                    new ImageIcon("icons\\collectionsMain180.png"));
             if (result == JOptionPane.OK_OPTION) {
                 String switch1 = (String) comboBoxMain.getSelectedItem();
                 switch (switch1) {
