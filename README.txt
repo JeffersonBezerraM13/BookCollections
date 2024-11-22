@@ -1,0 +1,8 @@
+Meu nome é Jefferson Bezerra, sou estudante de Ciência da Computação na UFPB e estou atualmente no terceiro período.
+Sobre o projeto: ele foi inspirado em um trabalho da disciplina "Linguagem de Programação" (uma introdução à orientação a objetos) ministrada pela professora Dra. Ayla Rebouças. O projeto original tinha como foco apenas o gerenciamento de livros pessoais. Nesta nova versão, foram adicionadas funcionalidades para gerenciar livros disponíveis para empréstimo e livros à venda.
+O objetivo do projeto é oferecer um sistema para gerenciamento de livros pessoais. Caso você não deseje mais manter um livro pessoal que já tenha lido, é possível transformá-lo em um livro para empréstimo ou colocá-lo à venda. Essa flexibilidade é válida para todos os tipos de acervo, permitindo uma gestão interconectada entre eles.
+
+-------------------------------------------------------------------------
+My name is Jefferson Bezerra, and I am a Computer Science student at UFPB, currently in my third semester.
+About the project: it was inspired by an assignment from the "Programming Language" course (essentially an introduction to object-oriented programming) taught by Professor Dr. Ayla Rebouças. The original project focused solely on managing personal books. In this new version, functionalities were added to manage books available for lending and books for sale.
+The goal of the project is to provide a system for managing personal books. If you no longer want to keep a personal book you’ve already read, you can turn it into a lendable book or even list it for sale. This flexibility applies to all types of collections, enabling interconnected management between them.
